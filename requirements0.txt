@@ -1,0 +1,4 @@
+pip install django==4.1.8 black
+pip install djangorestframework
+pip install django-cors-headers
+pip install coreapi
